@@ -10,7 +10,7 @@
 
 <table xmlns="http://query.yahooapis.com/v1/schema/table.xsd">
   <meta>
-    <author>Rob Young</author>
+    <author>Rob Young Test Only</author>
     <sampleQuery>SELECT * FROM bbc.goodfood.seasonal;</sampleQuery>
     <documentationURL></documentationURL>
   </meta>
